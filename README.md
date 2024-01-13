@@ -1,3 +1,7 @@
+* Lien application : https://nazimhetic.github.io/Restaurant/
+* Lien Trello : https://trello.com/b/kPj3kPor/github-tp
+
+
 ## Membre du projet
 * Rania Djema
 * Amel Mezemate
